@@ -1,6 +1,6 @@
-import NavBar from './components/NavBar.tsx'
-import WalletAddress from './components/WalletAddress.tsx'
-import AssetsTableAndDonationButton from './components/AssetsTableAndDonationButton.tsx'
+import NavBar from './components/NavBar'
+import WalletAddress from './components/WalletAddress'
+import AssetsTableAndDonationButton from './components/AssetsTableAndDonationButton'
 
 const Home = () => {
 
